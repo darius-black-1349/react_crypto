@@ -48,7 +48,7 @@ export const cryptoApi = createApi({
 
 export const {
 
-  useGetCryptosQuery, // GetCryptos = getCryptos action we defined | use and Query is constant
+  useGetCryptosQuery, // GetCryptos = getCryptos action we defined | use and Query are constant
   useGetCryptoDetailsQuery,
   useGetCryptoHistoryQuery,
   useGetExchangesQuery
